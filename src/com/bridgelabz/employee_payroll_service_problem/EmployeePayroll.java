@@ -1,13 +1,11 @@
 package com.bridgelabz.employee_payroll_service_problem;
 
 public class EmployeePayroll {
-
 	int id;
 	String name;
 	double salary;
 
 	public EmployeePayroll(int id, String name, double salary) {
-		super();
 		this.id = id;
 		this.name = name;
 		this.salary = salary;
@@ -39,6 +37,6 @@ public class EmployeePayroll {
 
 	@Override
 	public String toString() {
-		return "EmployeePayroll [id=" + id + ", name=" + name + ", salary=" + salary + "]";
+		return "id=" + id + ",name=" + name + ", salary=" + salary;
 	}
 }
