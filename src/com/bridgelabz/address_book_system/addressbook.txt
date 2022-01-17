@@ -1,0 +1,3 @@
+firstName=Azhar,lastName=Ansari,phoneNumber=8948036201,email=azhar123@yahoo.com,city=delhi,zip=274401,state=noida
+firstName=khushbu,lastName=khatun,phoneNumber=9170487355,email=khushbu03@gmail.com,city=delhi,zip=12457,state=delhi
+firstName=John,lastName=Joy,phoneNumber=456789123,email=johnjoy12@rediff.com,city=bangalore,zip=123456,state=karnataka
